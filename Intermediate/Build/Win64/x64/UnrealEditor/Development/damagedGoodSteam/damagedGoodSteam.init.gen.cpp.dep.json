@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\unrealeditor\\inc\\damagedgoodsteam\\uht\\damagedgoodsteam.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\x64\\damagedgoodsteameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\damagedgoodsteam\\definitions.damagedgoodsteam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

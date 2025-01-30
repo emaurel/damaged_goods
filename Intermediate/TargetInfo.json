@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "damagedGoodSteam",
+			"Path": "..\\Source\\damagedGoodSteam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "damagedGoodSteamEditor",
+			"Path": "..\\Source\\damagedGoodSteamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

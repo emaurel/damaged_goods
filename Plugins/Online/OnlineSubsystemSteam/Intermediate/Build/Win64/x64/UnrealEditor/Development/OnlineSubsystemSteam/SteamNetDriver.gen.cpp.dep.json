@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemsteam\\uht\\steamnetdriver.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\x64\\damagedgoodsteameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlinesubsystemsteam\\definitions.onlinesubsystemsteam.h",
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\plugins\\online\\onlinesubsystemsteam\\source\\classes\\steamnetdriver.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\ipnetdriver.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\circularqueue.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\spscqueue.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\ipnetdriver.generated.h",
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemsteam\\uht\\steamnetdriver.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

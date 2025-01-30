@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-damagedGoodSteam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\damagedGoodSteamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\UnrealEditor\Development\damagedGoodSteam\damagedGoodSteam.init.gen.cpp.obj"
+"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\UnrealEditor\Development\damagedGoodSteam\MyCharacter.gen.cpp.obj"
+"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\UnrealEditor\Development\damagedGoodSteam\damagedGoodSteam.cpp.obj"
+"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\UnrealEditor\Development\damagedGoodSteam\MyCharacter.cpp.obj"
+"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\UnrealEditor\Development\damagedGoodSteam\Default.rc2.res"
+/OUT:"C:\Users\edgar\Documents\Unreal Projects\damaged_goods\Intermediate\Build\Win64\x64\UnrealEditor\Development\damagedGoodSteam\UnrealEditor-damagedGoodSteam.lib"

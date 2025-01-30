@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\source\\damagedgoodsteam\\mycharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\x64\\damagedgoodsteameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\damagedgoodsteam\\definitions.damagedgoodsteam.h",
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\source\\damagedgoodsteam\\mycharacter.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epicgameslibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\edgar\\documents\\unreal projects\\damaged_goods\\intermediate\\build\\win64\\unrealeditor\\inc\\damagedgoodsteam\\uht\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

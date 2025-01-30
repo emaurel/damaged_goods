@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\edgar\\Documents\\Unreal Projects\\damaged_goods\\Source\\damagedGoodSteam\\damagedGoodSteam.Build.cs",
+		"C:\\Users\\edgar\\Documents\\Unreal Projects\\damaged_goods\\Plugins\\Online\\OnlineSubsystemSteam\\Source\\OnlineSubsystemSteam.Build.cs",
+		"C:\\Users\\edgar\\Documents\\Unreal Projects\\damaged_goods\\Source\\damagedGoodSteam.Target.cs",
+		"C:\\Users\\edgar\\Documents\\Unreal Projects\\damaged_goods\\Source\\damagedGoodSteamEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
